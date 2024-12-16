@@ -5,7 +5,7 @@ name = "suyadi" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[ routers ]]
-pattern = "shop.exempel.com"
+pattern = "vpn.suyadi.live"
 custom_domain = true
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
