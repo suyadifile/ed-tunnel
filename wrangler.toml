@@ -4,15 +4,6 @@ name = "suyadi" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-[[ routers ]]
-pattern = "vpn.suyadi.live"
-custom_domain = true
-[[ routers ]]
-pattern = "quiz.int.vidio.com.vpn.suyadi.live"
-custom_domain = true
-[[ routers ]]
-pattern = "quiz.vidio.com.vpn.suyadi.live"
-custom_domain = true
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
 # PROXYIP = "1.2.3.4"
@@ -20,4 +11,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "9f1aff7e-8be4-4f45-9881-ca5b75f5a61c"
+UUID = "d30bd52d-079e-4533-a99d-070676e72735"
